@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Yecats77/Yecats77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔍 Looking for a position in full-stack software developer / IT consultant
+- ⚡ Python, JavaScript, Java, SQL, Bash, Django, Vue3.js, D3.js, K8S 
+- 😄 English, Mandarin, Cantonese
+- 🌱 Currently learning Japanese
+- 📫 Reach me: staceyliu24@gmail.com
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **CyCraph: Chromosome Conformation**
+- frontend: https://github.com/deepomicslab/mrnadesign_web
+- backend: https://github.com/deepomicslab/mrnadesign_api
+
+![png](README_fig/cygraph.png)
+
+### **mRNA Vaccination Design Platform**
+- frontend: https://github.com/deepomicslab/crustdb_web
+- backend: https://github.com/deepomicslab/crustdb_api
+
+![png](README_fig/mrnadesign.png)
