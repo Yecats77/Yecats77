@@ -8,12 +8,12 @@
 
 ## Full-stack Website Development Projects
 
-### **CyCraph: Chromosome Conformation**
+### CyCraph: Chromosome Conformation
 - Frontend: https://github.com/deepomicslab/mrnadesign_web
 - Backend: https://github.com/deepomicslab/mrnadesign_api
 - [Demo](README_fig/cygraph.png)
 
-### **mRNA Vaccination Design Platform**
+### mRNA Vaccination Design Platform
 - frontend: https://github.com/deepomicslab/crustdb_web
 - backend: https://github.com/deepomicslab/crustdb_api
 - [Demo](README_fig/mrnadesign.png)
