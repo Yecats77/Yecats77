@@ -9,13 +9,11 @@
 ## Projects
 
 ### **CyCraph: Chromosome Conformation**
-- frontend: https://github.com/deepomicslab/mrnadesign_web
-- backend: https://github.com/deepomicslab/mrnadesign_api
-
-![png](README_fig/cygraph.png)
+- Frontend: https://github.com/deepomicslab/mrnadesign_web
+- Backend: https://github.com/deepomicslab/mrnadesign_api
+- [Demo](README_fig/cygraph.png)
 
 ### **mRNA Vaccination Design Platform**
 - frontend: https://github.com/deepomicslab/crustdb_web
 - backend: https://github.com/deepomicslab/crustdb_api
-
-![png](README_fig/mrnadesign.png)
+- [Demo](README_fig/mrnadesign.png)
