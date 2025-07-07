@@ -6,7 +6,7 @@
 - 🌱 Currently learning Japanese
 - 📫 Reach me: staceyliu24@gmail.com or [LinkedIn](https://www.linkedin.com/in/sitong-liu-238002209/)
 
-## Projects
+## Full-stack Website Development Projects
 
 ### **CyCraph: Chromosome Conformation**
 - Frontend: https://github.com/deepomicslab/mrnadesign_web
