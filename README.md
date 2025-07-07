@@ -4,7 +4,7 @@
 - ⚡ Python, JavaScript, Java, SQL, Bash, Django, Vue3.js, D3.js, K8S 
 - 😄 English, Mandarin, Cantonese
 - 🌱 Currently learning Japanese
-- 📫 Reach me: staceyliu24@gmail.com
+- 📫 Reach me: staceyliu24@gmail.com or [LinkedIn](https://www.linkedin.com/in/sitong-liu-238002209/)
 
 ## Projects
 
