@@ -3,7 +3,7 @@
 - 🔍 Looking for a position in full-stack software developer / IT consultant
 - ⚡ Python, JavaScript, Java, SQL, Bash, Django, Vue3.js, D3.js, K8S 
 - 😄 English, Mandarin, Cantonese
-- 🌱 Currently learning Japanese
+- 🌱 Currently learning Japanese, AWS
 - 📫 Reach me: staceyliu24@gmail.com or [LinkedIn](https://www.linkedin.com/in/sitong-liu-238002209/)
 
 ## Full-stack Website Development Projects
