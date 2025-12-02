@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔍 Looking for a position in develop / devops
+- 🔍 Looking for a position in development / devops
 - ⚡ Python, JavaScript, Java, SQL, Bash, Django, Vue3.js, D3.js, K8S 
 - 😄 English, Mandarin, Cantonese
 - 🌱 Currently learning Japanese, AWS
